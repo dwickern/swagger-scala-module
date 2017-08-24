@@ -6,7 +6,7 @@ import Defaults._
 
 organization := "com.github.dwickern"
 
-version := "1.0.5-SNAPSHOT"
+version := "1.0.5-PR39"
 
 scalaVersion := "2.11.8"
 
