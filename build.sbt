@@ -4,7 +4,7 @@ import sbt._
 import Keys._
 import Defaults._
 
-organization := "io.swagger"
+organization := "com.github.dwickern"
 
 version := "1.0.5-SNAPSHOT"
 
